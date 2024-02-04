@@ -1,0 +1,8 @@
+Number of classes:
+1. Data Driven- 3 days class
+2. Base class- 6 days class
+3. TestNG [TDD-Test Data Driven] (15 methods)- mani sir- 6 days class, arivu- 3 day class(IRetry analyser, Report, Assertions)
+4. September 15,2023- guru sir- Real time project explanation
+5. Application Programming Interface- 11 days class
+6. Cucumber- 3 mani sir, 10 arivu class_ totalkly 13 classes
+7. GIT- 2 classes
